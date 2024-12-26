@@ -39,7 +39,7 @@ If you use GPPI part of this code, please cite our paper:
 }
 ```
 
-If you use DPR part of this code, please cite the paper by N.Namura. et al.:
+If you use DPR part of this code, please cite the paper by Namura. et al. 2022:
 ```
 @article{PhysRevE.106.014204,
   title = {Estimating asymptotic phase and amplitude functions of limit-cycle oscillators from time series data},
